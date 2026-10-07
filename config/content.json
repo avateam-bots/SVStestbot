@@ -4,15 +4,15 @@
     "en": {
       "confirmation": "Please confirm that you are human",
       "confirm_button": "I am human",
-      "caption": "Welcome to 1WIN!\nUp to 600% bonus + up to 600 free spins",
-      "bonus_button": "Claim bonus / Download app",
+      "caption": "🎁 Welcome to 1win!\nGet up to 600% bonus + up to 600 free spins.\n\n👇 Tap below to download the app and claim your bonus.",
+      "bonus_button": "🎁 Get bonus / Download app",
       "image": "assets/welcome-en.png"
     },
     "hi": {
       "confirmation": "कृपया पुष्टि करें कि आप इंसान हैं",
       "confirm_button": "मैं इंसान हूँ",
-      "caption": "1WIN में आपका स्वागत है!\n600% तक बोनस + 600 तक फ्री स्पिन",
-      "bonus_button": "बोनस लें / ऐप डाउनलोड करें",
+      "caption": "🎁 1win में आपका स्वागत है!\n600% तक बोनस + 600 तक फ्री स्पिन पाएँ।\n\n👇 ऐप डाउनलोड करने और बोनस पाने के लिए नीचे दिए गए बटन पर टैप करें।",
+      "bonus_button": "🎁 बोनस पाएँ / ऐप डाउनलोड करें",
       "image": "assets/welcome-hi.png"
     }
   }
