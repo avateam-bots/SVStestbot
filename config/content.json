@@ -1,0 +1,19 @@
+{
+  "bonus_url": "https://luc-god.com/?6d2ed271=0IUz6%2BSWMgSq%2FcEYbAnMcig6y7K%2FznhzpZ0NpzB16iYnrtDZNNnBkMO5g2AqG%2FxqBYyZxBNoRsuBKdO6RyqOHWFmrct4i%2BcljmL%2BRatEUwPcYnatMf1GN%2BpZqBPzjhmn9vu3%2BYkw4BmGXno0E%2BPcySJqjSGI3uzMNWwuX99iddZFHj4B9xhLDfoyIn%2ByGPMYWziAU1zjqCEbDCXvZ5vKfKdUyIolOX1vss1n8zFRCnZj5kXkFcXI6%2BP%2BrtAwEbL4mG8z2V1GFpC0UcRDINkMdWsf2NXzSZuIJRmylXZNKOjb5yEQe4ZDv5dgeROSoTS2ZF0lRZI1mRtyM7HSzsXrZ0Xb8Gqe4N1M5bECFMzLhSHke8Lpxd7t%2FxJnaut2TkYk51CjrH8AKajJ9SlbhgonJOg3QQZRx4FkErFHxInvdWAs0OxTpDJTWzeqRY4ulywlxGJ%2BEHQf%2FKThyLdyU4xZnZl6ZfnQaIwadyKHe0uSleoo6bUPtiMjlI30PIF%2FbBpvjA%3D%3D&161ff10a=%7B%7Badset.id%7D%7D&70300c=%7B%7Badset.name%7D%7D&9e3c51ca=%7B%7Bsite_source_name%7D%7D&6b1d5e9d=%7B%7Bad.id%7D%7D&0e11d9=%7B%7Bad.name%7D%7D&46ff97d47b=%7B%7Bcampaign.id%7D%7D&eafb08b1=%7B%7Bcampaign.name%7D%7D&f18d6d=%7B%7Bplacement%7D%7D&7403eb=%7B%7Badaccount.id%7D%7D&3834dd5f=%7B%7Bpixel.id%7D%7D",
+  "languages": {
+    "en": {
+      "confirmation": "Please confirm that you are human",
+      "confirm_button": "I am human",
+      "caption": "Welcome to 1WIN!\nUp to 600% bonus + up to 600 free spins",
+      "bonus_button": "Claim bonus / Download app",
+      "image": "assets/welcome-en.png"
+    },
+    "hi": {
+      "confirmation": "कृपया पुष्टि करें कि आप इंसान हैं",
+      "confirm_button": "मैं इंसान हूँ",
+      "caption": "1WIN में आपका स्वागत है!\n600% तक बोनस + 600 तक फ्री स्पिन",
+      "bonus_button": "बोनस लें / ऐप डाउनलोड करें",
+      "image": "assets/welcome-hi.png"
+    }
+  }
+}
