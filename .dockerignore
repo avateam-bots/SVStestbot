@@ -1,7 +1,11 @@
 .git
 .env
-.env.*
 __pycache__
 tests
-resources
-*.md
+*.pyc
+
+.env.*
+*.env
+.venv
+venv
+**/__pycache__
